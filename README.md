@@ -10,4 +10,5 @@
 
 **Note**
 - View terminal recording with asciinema (https://asciinema.org/) - `asciinema play asciinema.cast`
+    - The link to this recording is here: https://asciinema.org/a/5mkjmeXOQhZZucCPDxQ5j8Fnp
 - `wordlist.txt` is the wordlist generated from the words used in the terminal recording.
